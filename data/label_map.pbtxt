@@ -1,0 +1,19 @@
+item {
+    id: 1
+    name: 'back'
+}
+
+item {
+    id: 2
+    name: 'girasol'
+}
+
+item {
+    id: 3
+    name: 'maiz'
+}
+
+item {
+    id: 4
+    name: 'trigo'
+}
